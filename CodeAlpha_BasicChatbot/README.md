@@ -34,6 +34,6 @@ CodeAlpha_BasicChatbot/
 
 ## 👨‍💻 Author
 
-**Ajitesh Parashari**
+**Akshra Tripathi**
 
 CodeAlpha Python Programming Internship
